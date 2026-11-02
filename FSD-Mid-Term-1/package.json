@@ -1,0 +1,12 @@
+{
+  "name": "fsd-mid-term-1",
+  "version": "1.0.0",
+  "description": "A simple in-memory Library Management System REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
